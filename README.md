@@ -32,7 +32,6 @@ The application has been deployed on [Vercel](https://qode-assignment-jvnz.verce
    ```bash
    git clone <repository-url>
    cd <project-folder>
-   ## Docker Setup
 
 To run the Snapboard app using Docker, follow these steps:
 
