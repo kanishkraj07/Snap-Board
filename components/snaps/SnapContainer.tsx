@@ -15,7 +15,7 @@ const SnapContainer = ({reloadSnaps}: SnapContainerProps) => {
 
     return (
         <>
-           { isLoading ? <div>Loading ...</div> :  <div className="w-full p-8 m-5">
+           { isLoading ? <div>Loading Snaps, Please wait ...</div> :  <div className="w-full p-8 m-5">
             <div className="flex justify-center items-center m-5 flex-wrap gap-5">
                 {
                     snaps.map((snap: Snap, index: number) => <SnapBox key={index} snap={snap} />)
