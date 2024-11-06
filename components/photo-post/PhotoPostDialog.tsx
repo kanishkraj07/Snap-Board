@@ -9,7 +9,7 @@ import FileInput from "@/ui/FileInput";
 export interface PhotoPostDialogProps {
     isOpenDialog: boolean;
     setIsOpenDialog: (T: boolean) => void;
-    setReloadSnaps: (T: boolean) => void;
+    setReloadSnaps: (T: (isSnaps: boolean) => boolean) => void;
 }
 
 const PhotoPostDialog = ({isOpenDialog, setIsOpenDialog, setReloadSnaps}: PhotoPostDialogProps) => {
