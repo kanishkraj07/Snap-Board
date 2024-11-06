@@ -29,3 +29,17 @@ Snapboard is a photo-sharing web application where users can view snaps, post ne
    ```bash
    git clone <repository-url>
    cd <project-folder>
+   ## Docker Setup
+
+To run the Snapboard app using Docker, follow these steps:
+
+2. **Build the Docker image**
+
+```bash
+docker build -t <name> .
+```
+
+3. **Run the Docker image**
+
+```bash
+docker run -d -p 3000:3000 <name>
