@@ -5,7 +5,7 @@
 
 Snapboard is a photo-sharing web application where users can view snaps, post new snaps, and leave comments on existing ones. The application uses a modern tech stack to provide a seamless and responsive user experience. Snapboard allows users to upload snaps, with images securely stored using AWS S3. The backend is powered by Prisma ORM and PostgreSQL for efficient data handling.
 
-The application has been deployed on [Vercel](https://qode-assignment-o7888s92g-kanishk-mogalrajs-projects.vercel.app/) for easy access.
+The application has been deployed on [Vercel](https://qode-assignment-jvnz.vercel.app/) for easy access.
 
 
 ## Technologies Used
