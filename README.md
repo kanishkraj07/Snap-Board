@@ -15,7 +15,7 @@ The application has been deployed on [Vercel](https://qode-assignment-jvnz.verce
 - **Ant Design** - A UI design framework for building rich and interactive user interfaces.
 - **Prisma** - An ORM that simplifies database queries and provides a type-safe interface.
 - **PostgreSQL** - A powerful, open-source relational database used for storing snaps and user data.
-- **Docker** - Containerization platform to ensure consistency across different environments and easy deployment.
+- **Docker** - Docker is used to run the application locally, ensuring consistency across environments and facilitating deployment.
 - **AWS S3** - Object storage service used for storing and serving images uploaded by users.
 
 ## Features
