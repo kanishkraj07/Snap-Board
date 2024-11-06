@@ -1,4 +1,4 @@
-import { NextResponse,NextRequest } from "next/server";
+import { NextResponse } from "next/server";
 import { PutObjectCommand, S3Client, GetObjectCommand } from "@aws-sdk/client-s3";
 import { PrismaClient, SnapDetials } from "@prisma/client";
 import { v4 } from "uuid";
