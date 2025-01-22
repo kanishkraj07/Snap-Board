@@ -1,5 +1,5 @@
 
-# Snapboard - Photo Sharing App (Qode.world Assignment)
+# Snapboard - Image Sharing Application
 
 ## Overview
 
