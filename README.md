@@ -1,5 +1,5 @@
 
-# Snapboard - Image Sharing Application
+# Snapboard - Photo Sharing Application
 
 ## Overview
 
